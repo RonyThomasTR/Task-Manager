@@ -1,0 +1,14 @@
+.nav-cntrl{
+    font-style: italic;
+    font-weight: bold;
+}
+.heading{
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
+.banner-cntrl{
+    margin-left: 100px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: xx-large;
+}
